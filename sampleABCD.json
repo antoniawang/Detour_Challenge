@@ -1,0 +1,6 @@
+{
+	"A": { "type": "Point", "coordinates": [ 37.7327820,-122.5026200 ] },
+	"B": { "type": "Point", "coordinates": [ 37.7955800,-122.3934110 ] },
+	"C": { "type": "Point", "coordinates": [ 37.7951620,-122.4027280 ] },
+	"D": { "type": "Point", "coordinates": [ 37.7715160,-122.4686470 ] }
+}
